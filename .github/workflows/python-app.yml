@@ -43,4 +43,4 @@ jobs:
               uses: docker/build-push-action@v6
               with:
                 push: true
-                tags: ghcr.io/Kiiro-Andy/Practica10:latest
+                tags: ghcr.io/Kiiro-Andy/practica10:latest
